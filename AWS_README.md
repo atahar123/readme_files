@@ -42,6 +42,7 @@ scp -i ~/.ssh/atahar-eng54.pem -r app/ ubuntu@aws.ip.address:/home/ubuntu/
 - Enter the custom link from the Vagrantfile into the browser on port 8080
 - When it prompts for the password:
   1. ssh into the VM
-  2. ```
+  2.
+  ```
   sudo cat copy/and/paste/the/destination/name/jenkins/gives/you
   ```
