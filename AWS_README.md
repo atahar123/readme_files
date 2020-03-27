@@ -43,6 +43,6 @@ scp -i ~/.ssh/atahar-eng54.pem -r app/ ubuntu@aws.ip.address:/home/ubuntu/
 - When it prompts for the password:
   1. ssh into the VM
   2.
-  ```
+  ```bash
   sudo cat copy/and/paste/the/destination/name/jenkins/gives/you
   ```
